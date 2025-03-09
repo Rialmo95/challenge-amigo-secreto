@@ -15,5 +15,10 @@ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará a
 #link util
 https://github.com/AlejandroNes/PracticasJS-Youtube
 https://www.youtube.com/watch?v=1ebRXQWRaJs
-https://www.youtube.com/watch?v=78Sf-s3Glu8 
+https://www.youtube.com/watch?v=78Sf-s3Glu8
+https://www.geeksforgeeks.org/how-to-creating-html-list-from-javascript-array/
+https://es.stackoverflow.com/questions/274078/obtener-el-ultimo-elemento-de-un-array-javascript
+https://developer.mozilla.org/en-US/docs/Web/API/Element/remove
+https://www.google.com/search?q=vaciar+elemento+ul+html+javascript&sca_esv=bb72d535a07d16c1&sxsrf=AHTn8zqCdfTeLfi5du3m7CaEmZQollfPRQ%3A1741542596143&ei=xNTNZ6a2CPTV1sQP7qSrqQw&ved=0ahUKEwimqLfex_2LAxX0qpUCHW7SKsUQ4dUDCBA&uact=5&oq=vaciar+elemento+ul+html+javascript&gs_lp=Egxnd3Mtd2l6LXNlcnAiInZhY2lhciBlbGVtZW50byB1bCBodG1sIGphdmFzY3JpcHQyCBAhGKABGMMEMggQIRigARjDBDIIECEYoAEYwwRIjixQuSBYviJwA3gAkAEAmAGLAaAB1QOqAQMwLjS4AQPIAQD4AQGYAgWgAroCwgIKEAAYsAMY1gQYR8ICBxAjGLACGCfCAgUQABjvBZgDAIgGAZAGCJIHAzMuMqAHkhk&sclient=gws-wiz-serp
+
 
