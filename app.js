@@ -14,6 +14,7 @@ function agregarAmigo(){
     }
     else{
         amigos.push(nombre);
+        limpiarCaja();
     }
    
     //console.log(nombre); VERIFICA SI ANDA EL INGRESO
@@ -25,6 +26,10 @@ function agregarAmigo(){
 
 function eliminar_espacio(cadena){
     cadena.value = cadena.value.replace(/ /g, "");
+}
+
+function limpiarCaja() {
+    document.querySelector('#amigo').value = '';
 }
 
 console.log("Funcionando");
