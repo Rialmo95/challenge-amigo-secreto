@@ -39,6 +39,14 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 **Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea el proyecto inicial o final.**
 
+Para poder descargar o acceder al proyecto copia el siguiente link: https://github.com/Rialmo95/challenge-amigo-secreto
+
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
+
+y finalmente clona el repositorio
+
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
+
 ## 🛠️ Abrir y ejecutar el proyecto
 
 **Presenta las instrucciones necesarias para abrir y ejecutar el proyecto.**
