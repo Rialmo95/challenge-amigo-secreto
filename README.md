@@ -24,7 +24,7 @@ CHALLENGE: AMIGO SECRETO
 Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla. 
-![image](https://github.com/user-attachments/assets/a86f67e5-0c7e-4ccc-9de2-6ea73b58aa93)
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2017-53-35.png)
 
 ## ✔️ Técnicas y tecnologías utilizadas
 
