@@ -1,21 +1,6 @@
-## Imagen de portada
-
 ![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
-
-Después de agregar la imagen, también modifica las configuraciones del proyecto para asegurarte de que la imagen se cargue como miniatura:
-
-**Settings** > **Options** > **Social preview** > **Edit** > **Upload an image...**
-
-<details>
-  <summary><b>Demostración de la adición de miniatura<b/></summary>
-    
-![adicionando-imagem-preview](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2017-53-35.png)
-    
-</details>
   
-# Nombre del proyecto
-
-CHALLENGE: AMIGO SECRETO
+# CHALLENGE: AMIGO SECRETO
 
 ## 🔨 Funcionalidades del proyecto
 
@@ -24,9 +9,9 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla. 
 ![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2017-53-35.png)
 
-## ✔️ Técnicas y tecnologías utilizadas
+## ✔️ funcionalidades
 
-**Haz una lista de las tecnologías y técnicas utilizadas (la justificación y descripción son opcionales)**:
+**se implemento las siguientes funciones utilizando tecnología HTML, CSS y Javascript**:
 
 - `Agregar nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 - `Validar entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
@@ -35,9 +20,7 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 ## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea el proyecto inicial o final.**
-
-Para poder descargar o acceder al proyecto copia el siguiente link: https://github.com/Rialmo95/challenge-amigo-secreto
+**Para poder descargar o acceder al proyecto copia el siguiente link: https://github.com/Rialmo95/challenge-amigo-secreto**
 
 ![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-55-05.png)
 
@@ -54,7 +37,7 @@ Hay dos maneras de abrir y ejecutar el proyecto.
 
 ## 📚 Más información
 
-Este proyecto fue posible gracias a ALURA LATAM. Es la herramienta definitiva para el aprendizaje personalizado, permitiéndote profundizar y destacarte en tus estudios de manera única.
+Este proyecto fue posible gracias a ALURA LATAM ❤️ . Es la herramienta definitiva para el aprendizaje personalizado, permitiéndote profundizar y destacarte en tus estudios de manera única.
 
 Para más información en el siguiente enlace: https://www.aluracursos.com/ 
 
