@@ -2,7 +2,7 @@
 
 Añade la imagen de portada con el tema de tu proyecto:
 
-![image](https://drive.google.com/file/d/1bnZDC4Fsjw4-_hvm0DiPDolbAyh2FWX3/view?usp=sharing)
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
 
 Después de agregar la imagen, también modifica las configuraciones del proyecto para asegurarte de que la imagen se cargue como miniatura:
 
@@ -11,7 +11,7 @@ Después de agregar la imagen, también modifica las configuraciones del proyect
 <details>
   <summary><b>Demostración de la adición de miniatura<b/></summary>
     
-![adicionando-imagem-preview](https://user-images.githubusercontent.com/8989346/123303159-e0e24a00-d4f3-11eb-9900-92a8b15bc31b.gif)
+![adicionando-imagem-preview](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2017-53-35.png)
     
 </details>
   
