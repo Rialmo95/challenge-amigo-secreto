@@ -1,7 +1,5 @@
 ## Imagen de portada
 
-Añade la imagen de portada con el tema de tu proyecto:
-
 ![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
 
 Después de agregar la imagen, también modifica las configuraciones del proyecto para asegurarte de que la imagen se cargue como miniatura:
@@ -41,23 +39,26 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 
 Para poder descargar o acceder al proyecto copia el siguiente link: https://github.com/Rialmo95/challenge-amigo-secreto
 
-![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-55-05.png)
 
 y finalmente clona el repositorio
 
-![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-29-54.png)
+![image](https://github.com/Rialmo95/challenge-amigo-secreto/blob/main/assets/Captura%20desde%202025-03-17%2018-46-29.png)
 
 ## 🛠️ Abrir y ejecutar el proyecto
 
-**Presenta las instrucciones necesarias para abrir y ejecutar el proyecto.**
+Hay dos maneras de abrir y ejecutar el proyecto. 
 
-## 📚 Más información del curso
+1) a traves del siguiente link del proyecto cargado en github https://rialmo95.github.io/challenge-amigo-secreto/
+2) ejecutando html con un editor
 
-**Haz un CTA (_call to action_) para el curso del proyecto.**
+## 📚 Más información
 
---- 
+Este proyecto fue posible gracias a ALURA LATAM. Es la herramienta definitiva para el aprendizaje personalizado, permitiéndote profundizar y destacarte en tus estudios de manera única.
 
-Isso preserva a estrutura Markdown do template original, adaptando o conteúdo para o espanhol informal.
+Para más información en el siguiente enlace: https://www.aluracursos.com/ 
+
+
 
 
 
